@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\models\\onlineorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\models\\onlineorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\controllers\\onlineorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\controllers\\onlineorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260327145152_AddOnlineOrdersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementAPI\\Migrations\\20260327145152_AddOnlineOrdersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\migrations\\20260325213622_manualfixdruginteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\migrations\\20260325213622_manualfixdruginteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\migrations\\20260323111411_syncbarcodecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\migrations\\20260323111411_syncbarcodecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\models\\druginteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\models\\druginteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\migrations\\20260323120237_addsuppliersandpurchases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\migrations\\20260323120237_addsuppliersandpurchases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\models\\purchasehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\models\\purchasehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\pharmacymanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\pharmacymanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\migrations\\20260319184458_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\migrations\\20260319184458_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\migrations\\20260322223212_adduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\migrations\\20260322223212_adduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\migrations\\20260322140340_finalisactivesync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\migrations\\20260322140340_finalisactivesync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\migrations\\20260322113508_finaldashboardsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\migrations\\20260322113508_finaldashboardsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|d:\\computer science cairo\\third semester\\project\\pharmacymanagementapi\\pharmacymanagementapi\\migrations\\20260322100608_syncbarcodefinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6624C-383A-0B8F-02A2-DDB4028470DB}|PharmacyManagementAPI\\PharmacyManagementAPI.csproj|solutionrelative:pharmacymanagementapi\\migrations\\20260322100608_syncbarcodefinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260327145152_AddOnlineOrdersTable.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260327145152_AddOnlineOrdersTable.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Migrations\\20260327145152_AddOnlineOrdersTable.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260327145152_AddOnlineOrdersTable.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Migrations\\20260327145152_AddOnlineOrdersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:51:52.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnlineOrdersController.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\OnlineOrdersController.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Controllers\\OnlineOrdersController.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\OnlineOrdersController.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Controllers\\OnlineOrdersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:30:12.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineOrder.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\OnlineOrder.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Models\\OnlineOrder.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\OnlineOrder.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Models\\OnlineOrder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:28:20.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DrugInteraction.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\DrugInteraction.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Models\\DrugInteraction.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\DrugInteraction.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Models\\DrugInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:25:15.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260325213622_ManualFixDrugInteractions.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260325213622_ManualFixDrugInteractions.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Migrations\\20260325213622_ManualFixDrugInteractions.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260325213622_ManualFixDrugInteractions.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Migrations\\20260325213622_ManualFixDrugInteractions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:36:22.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Controllers\\SuppliersController.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv30AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:55:47.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260323120237_AddSuppliersAndPurchases.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260323120237_AddSuppliersAndPurchases.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Migrations\\20260323120237_AddSuppliersAndPurchases.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260323120237_AddSuppliersAndPurchases.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Migrations\\20260323120237_AddSuppliersAndPurchases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:02:37.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Models\\PurchaseOrder.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\PurchaseOrder.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Models\\PurchaseOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:26:46.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Models\\Supplier.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\Supplier.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:25:14.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260323111411_SyncBarcodeColumn.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260323111411_SyncBarcodeColumn.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Migrations\\20260323111411_SyncBarcodeColumn.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260323111411_SyncBarcodeColumn.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Migrations\\20260323111411_SyncBarcodeColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:14:11.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T22:36:24.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260322223212_AddUsersTable.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260322223212_AddUsersTable.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Migrations\\20260322223212_AddUsersTable.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260322223212_AddUsersTable.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Migrations\\20260322223212_AddUsersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T22:32:12.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Models\\User.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\User.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T22:30:40.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Controllers\\MedicinesController.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Controllers\\MedicinesController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAowKcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T14:26:53.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Data\\ApiDbContext.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Data\\ApiDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T18:24:35.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260322140340_FinalIsActiveSync.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260322140340_FinalIsActiveSync.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Migrations\\20260322140340_FinalIsActiveSync.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260322140340_FinalIsActiveSync.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Migrations\\20260322140340_FinalIsActiveSync.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:03:41.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260322113508_FinalDashboardSync.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260322113508_FinalDashboardSync.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Migrations\\20260322113508_FinalDashboardSync.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260322113508_FinalDashboardSync.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Migrations\\20260322113508_FinalDashboardSync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:35:09.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260322100608_SyncBarcodeFinal.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260322100608_SyncBarcodeFinal.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Migrations\\20260322100608_SyncBarcodeFinal.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260322100608_SyncBarcodeFinal.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Migrations\\20260322100608_SyncBarcodeFinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:06:08.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Models\\Medicine.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\Medicine.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Models\\Medicine.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T14:23:48.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv3oAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T17:43:40.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Models\\Patient.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T17:30:51.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PurchaseHistory.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\PurchaseHistory.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Models\\PurchaseHistory.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Models\\PurchaseHistory.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Models\\PurchaseHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T17:31:37.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Program.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Program.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T18:04:33.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\appsettings.json",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\appsettings.json",
+              "RelativeToolTip": "PharmacyManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T18:25:42.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260319184458_InitialCreate.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260319184458_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Migrations\\20260319184458_InitialCreate.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Migrations\\20260319184458_InitialCreate.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Migrations\\20260319184458_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T18:44:59.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PharmacyManagementAPI.csproj",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\PharmacyManagementAPI.csproj",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\PharmacyManagementAPI.csproj",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\PharmacyManagementAPI.csproj",
+              "RelativeToolTip": "PharmacyManagementAPI\\PharmacyManagementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T18:23:50.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PharmacyManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T18:01:49.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\computer science cairo\\third semester\\Project\\PharmacyManagementAPI\\PharmacyManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PharmacyManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T14:16:11.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
